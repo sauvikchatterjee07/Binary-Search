@@ -7,3 +7,4 @@
 - 29th Jan - Search Insert Position, Leetcode 35
 - 28th Mar - 81. Search in Rotated Sorted Array II
 - 29th Mar - 287. Find the Duplicate Number
+- 30th Mar - 74. Search a 2D Matrix
